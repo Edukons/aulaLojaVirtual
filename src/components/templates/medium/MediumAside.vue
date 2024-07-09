@@ -1,3 +1,3 @@
 <template>
-    <h2>Large Header</h2>
+    <h2>Medium Aside</h2>
   </template>
